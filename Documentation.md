@@ -72,8 +72,5 @@ My prototype does in fact include images of the book cover, Jane Austen, images 
 
 ## Evaluate Wireframes feedback
 
-| UI | Plus | Minus | Implications |
-| ---------------------- | ------------------- |
-| Header | Title |
-| Paragraph | Text |
+<img width="656" height="478" alt="Screenshot 2026-04-24 at 1 30 04 pm" src="https://github.com/user-attachments/assets/a657ef50-0b57-48e2-a5a9-e901d72eeaaa" />
 
