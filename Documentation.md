@@ -68,3 +68,7 @@ The prototype will not collect any kind of data. The website will accurately dem
 ## Legal Responsibilities
 My prototype does in fact include images of the book cover, Jane Austen, images of characters, places, maps, and quotes from the book. I will be using external sources, it is vital that I credit them in my website. 
 
+
+
+## Evaluate Wireframes feedback
+
