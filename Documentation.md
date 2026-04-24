@@ -72,3 +72,8 @@ My prototype does in fact include images of the book cover, Jane Austen, images 
 
 ## Evaluate Wireframes feedback
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
